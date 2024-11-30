@@ -37,6 +37,9 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 ![image](https://github.com/user-attachments/assets/2989e45e-5d65-484d-9f5b-e9873f47ac4c)
 *Creación de Escenario 4 y Exportación de Sprites para el Escenario*
 
+![image](https://github.com/user-attachments/assets/49464a32-ff4b-4a41-955a-4d40f9508126)
+*Importación de Background*
+
 #### *Trello*
 ![image](https://github.com/user-attachments/assets/b66ec53e-a380-4646-a11b-5a4882adba1a)
 *Elaboración de espacio de trabajo en Trello*
@@ -44,10 +47,15 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 ![image](https://github.com/user-attachments/assets/c872a22b-a67c-4386-a5cf-5a257f8705b1)
 *Tabla de contenido para la Creación de Escena*
 
+![image](https://github.com/user-attachments/assets/5ad9eabc-9ea8-479a-a325-08eb68244da9)
+*Tareas Completadas*
+
 ----
 
 ## 02: Elaboración de Escenario
 #### *Evidencias*
+![image](https://github.com/user-attachments/assets/0296b519-abad-4328-b377-9d46cee57894)
+*Colocación del Fondo en el Escenario*
 
 #### *Trello*
 ![image](https://github.com/user-attachments/assets/eed7d0c8-c517-45ba-ae47-a5a021f66163)
