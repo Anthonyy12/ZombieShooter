@@ -41,7 +41,7 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 
 ----
 
-## 01: Elaboración de Escenario
+## 02: Elaboración de Escenario
 #### *Evidencias*
 
 #### *Trello*
