@@ -1,0 +1,23 @@
+# Unity-generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Assets/AssetStoreTools*
+UserSettings/
+Logs/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.pidb
+*.user
+*.userprefs
+*.unityproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
