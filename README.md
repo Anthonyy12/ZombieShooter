@@ -34,6 +34,8 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 
 ## 01: Creación de Escena
 #### *Evidencias*
+![image](https://github.com/user-attachments/assets/2989e45e-5d65-484d-9f5b-e9873f47ac4c)
+*Creación de Escenario 4 y Exportación de Sprites para el Escenario*
 
 #### *Trello*
 ![image](https://github.com/user-attachments/assets/b66ec53e-a380-4646-a11b-5a4882adba1a)
