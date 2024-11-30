@@ -24,8 +24,8 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 ----
 
 ### TABLA DE CONTENIDO
-- [01: Creación de Escena](#01-creacion-de-escena)
-- [02: Elaboración de Escenario](#02-elaboracion-de-escenario)
+- [01: Creación de Escena](#01-creación-de-escena)
+- [02: Elaboración de Escenario](#02-elaboración-de-escenario)
 
 ----
 
