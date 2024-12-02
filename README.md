@@ -15,13 +15,11 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 |
 <strong><a href="https://github.com/Anthonyy12/ZombieShooter/pull/2">Pull-Request 2</a></strong>
 |
-<strong><a href="">Pull-Request 3</a></strong>
+<strong><a href="https://github.com/Anthonyy12/ZombieShooter/pull/3">Pull-Request 3</a></strong>
 |
-<strong><a href="">Pull-Request 4</a></strong>
+<strong><a href="https://github.com/Anthonyy12/ZombieShooter/pull/4">Pull-Request 4</a></strong>
 |
 <strong><a href="">Pull-Request 5</a></strong>
-|
-<strong><a href="">Pull-Request 6</a></strong>
 </p>
 
 ----
@@ -30,6 +28,7 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 - [01: Creación de Escena](#01-creación-de-escena)
 - [02: Elaboración de Escenario](#02-elaboración-de-escenario)
 - [03: Elaboración de la Lógica](#03-elaboración-de-la-lógica)
+- [04: Implementación de sonido](#04-implementación-de-sonido)
 
 ----
 
@@ -82,7 +81,27 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 
 ## 03: Elaboración de la Lógica
 #### *Evidencias*
+![image](https://github.com/user-attachments/assets/5148fbc6-11f3-4f90-957b-5fab13dc18d3)
+*Spawn de Zombies*
 
+![image](https://github.com/user-attachments/assets/fc9a7e53-c125-49e5-a589-9682052b2e06)
+*Controlador para el Gameplay*
+
+![image](https://github.com/user-attachments/assets/39d318ac-759b-4aa8-a805-610647a13857)
+*Nivel de vida para el Personaje*
+
+![image](https://github.com/user-attachments/assets/a3640911-103a-4745-af4f-26d7c660cfd9)
+![image](https://github.com/user-attachments/assets/a45f341b-9fd5-4559-af59-5b2c0bb7fea5)
+*Menú de pausa*
+
+![image](https://github.com/user-attachments/assets/41213c5e-4cae-493f-adc8-ec0c64d16ef3)
+*Objetivo del Nivel*
+
+![image](https://github.com/user-attachments/assets/c7a60761-4640-4871-a691-f5a919f4f39e)
+*Menú de finalización del juego*
+
+![image](https://github.com/user-attachments/assets/36069d4b-5e2a-44fd-98e0-21e51d781d72)
+*Sistema de Puntuación para el Nivel*
 
 
 #### *Trello*
@@ -91,3 +110,19 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 
 ![image](https://github.com/user-attachments/assets/7808ac1b-a8f3-4e88-aaf1-16ca8f3a0851)
 *Tabla de contenido para la Elaboración de Escenario*
+
+![image](https://github.com/user-attachments/assets/5970e7db-7c38-497d-b5b8-f71e1a982a38)
+*Tareas Completadas*
+
+----
+
+## 04: Implementación de sonido
+#### *Evidencias*
+
+
+#### *Trello*
+![image](https://github.com/user-attachments/assets/939afe4b-5b14-4854-ba93-86e3a44d6094)
+*Elaboración de espacio de trabajo en Trello*
+
+![image](https://github.com/user-attachments/assets/ddefdc12-0a2f-4b28-9092-e06b715e34c1)
+*Tabla de contenido para la Creación de Escena*
