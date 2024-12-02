@@ -11,7 +11,7 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 ----
 ### Enlaces para los Pull-Request
 <p align="center">
-<strong><a href="">Pull-Request 1</a></strong>
+<strong><a href="https://github.com/Anthonyy12/ZombieShooter/pull/1">Pull-Request 1</a></strong>
 |
 <strong><a href="">Pull-Request 2</a></strong>
 |
