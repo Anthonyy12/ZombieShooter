@@ -19,7 +19,7 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 |
 <strong><a href="https://github.com/Anthonyy12/ZombieShooter/pull/4">Pull-Request 4</a></strong>
 |
-<strong><a href="">Pull-Request 5</a></strong>
+<strong><a href="https://github.com/Anthonyy12/ZombieShooter/pull/5">Pull-Request 5</a></strong>
 </p>
 
 ----
@@ -118,7 +118,11 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 
 ## 04: Implementación de sonido
 #### *Evidencias*
+![image](https://github.com/user-attachments/assets/153591bb-df4e-4e6e-b725-46812d236e6b)
+*Creación de Script para el manejo de los sonidos del juego*
 
+![image](https://github.com/user-attachments/assets/583b9e22-1589-4fe0-aafa-7d6035c71fed)
+*Creación de GameObject para el uso del Script*
 
 #### *Trello*
 ![image](https://github.com/user-attachments/assets/939afe4b-5b14-4854-ba93-86e3a44d6094)
@@ -126,3 +130,6 @@ En este repositorio se mostrara el contenido y los resultados a la hora de elabo
 
 ![image](https://github.com/user-attachments/assets/ddefdc12-0a2f-4b28-9092-e06b715e34c1)
 *Tabla de contenido para la Creación de Escena*
+
+![image](https://github.com/user-attachments/assets/13c9353f-dc96-4ea5-9057-bd86c8aaa455)
+*Tareas Completadas*
